@@ -3,3 +3,4 @@ git add.
 git commit -m "Commentaires"
 git push
 git pull
+git branch
